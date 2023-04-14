@@ -21,6 +21,10 @@ public class test4 {
 		System.out.println(" the  zip cood   is :" + zipCode);
 	}
 	
+	public void add(int a , int b) {
+		System.out.println(a + b);
+	}
+	
 	
 	
 }
